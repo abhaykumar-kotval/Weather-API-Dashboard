@@ -150,3 +150,7 @@ This dashboard consolidates weather forecasts and environmental data into a sing
 * Geographic map visualization
 
 ---
+
+Dashboard Overview
+
+https://github.com/abhaykumar-kotval/Weather-API-Dashboard/blob/main/Weather%20API%20Dashboard%20SS.png
