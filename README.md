@@ -150,5 +150,3 @@ This dashboard consolidates weather forecasts and environmental data into a sing
 * Geographic map visualization
 
 ---
-
-Power BI Developer | Data Analyst
