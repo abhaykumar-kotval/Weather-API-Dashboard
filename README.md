@@ -151,6 +151,4 @@ This dashboard consolidates weather forecasts and environmental data into a sing
 
 ---
 
-Dashboard Overview
-
-https://github.com/abhaykumar-kotval/Weather-API-Dashboard/blob/main/Weather%20API%20Dashboard%20SS.png
+![Dashboard Overview](https://github.com/abhaykumar-kotval/Weather-API-Dashboard/blob/main/Weather%20API%20Dashboard%20SS.png)
